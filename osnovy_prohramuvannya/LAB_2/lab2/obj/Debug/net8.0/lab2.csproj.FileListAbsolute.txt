@@ -1,0 +1,14 @@
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\bin\Debug\net8.0\lab2.exe
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\bin\Debug\net8.0\lab2.deps.json
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\bin\Debug\net8.0\lab2.dll
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\bin\Debug\net8.0\lab2.pdb
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.dll
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\refint\lab2.dll
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.pdb
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+D:\teaching_2025-2026\osnovy_prohramuvannya\LAB_2\lab2\obj\Debug\net8.0\ref\lab2.dll
