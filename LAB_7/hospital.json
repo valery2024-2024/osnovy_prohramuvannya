@@ -1,0 +1,48 @@
+{
+  "Name": "City Hospital",
+  "Departments": [
+    {
+      "Name": "Therapy",
+      "Doctors": [
+        {
+          "Name": "Dr. Ivanov",
+          "Years": 10
+        },
+        {
+          "Name": "Dr. Petrenko",
+          "Years": 7
+        },
+        {
+          "Name": "Dr. Chernenko",
+          "Years": 12
+        }
+      ]
+    },
+    {
+      "Name": "Surgery",
+      "Doctors": [
+        {
+          "Name": "Dr. Shevchenko",
+          "Years": 12
+        },
+        {
+          "Name": "Dr. Bondar",
+          "Years": 5
+        },
+        {
+          "Name": "Dr. Kovalenko",
+          "Years": 8
+        }
+      ]
+    },
+    {
+      "Name": "Pediatrics",
+      "Doctors": [
+        {
+          "Name": "Dr. Tarasiuk",
+          "Years": 15
+        }
+      ]
+    }
+  ]
+}
