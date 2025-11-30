@@ -879,7 +879,6 @@ obj/
 *.cache
 *.pdb
 *.png
-*.json
 *.nuget
 *.user
 *.DS_Store
