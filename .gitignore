@@ -872,3 +872,14 @@ packages/
 # OS сміття
 .DS_Store
 Thumbs.db
+bin/
+obj/
+*.dll
+*.exe
+*.cache
+*.pdb
+*.png
+*.json
+*.nuget
+*.user
+*.DS_Store
